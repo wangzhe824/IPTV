@@ -105,11 +105,11 @@ rtp://225.1.2.175:5002
 rtp://225.1.2.176:5002
 #EXTINF:-1 tvg-name="央视精品" tvg-logo="http://iptv.im2k.com/logo/CCTV-WHJP.png" group-title="央视频道",CCTV央视文化精品
 rtp://225.1.2.177:5002
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="http://iptv.im2k.com/logo/CNDF-FXZL.png" group-title="央视频道",央视频道新影发现之旅 SD
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="http://iptv.im2k.com/logo/CNDF-FXZL.png" group-title="央视频道",CCTV发现之旅 SD
 rtp://225.1.1.183:5002
-#EXTINF:-1 tvg-name="老故事" tvg-logo="http://iptv.im2k.com/logo/CNDF-LGS.png" group-title="央视频道",央视频道新影老故事 SD
+#EXTINF:-1 tvg-name="老故事" tvg-logo="http://iptv.im2k.com/logo/CNDF-LGS.png" group-title="央视频道",CCTV老故事 SD
 rtp://225.1.1.188:5002
-#EXTINF:-1 tvg-name="中学生" tvg-logo="http://iptv.im2k.com/logo/CNDF-ZXS.png" group-title="央视频道",央视频道新影中学生 SD
+#EXTINF:-1 tvg-name="中学生" tvg-logo="http://iptv.im2k.com/logo/CNDF-ZXS.png" group-title="央视频道",CCTV中学生 SD
 rtp://225.1.1.193:5002
 
 
