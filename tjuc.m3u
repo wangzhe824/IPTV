@@ -123,8 +123,8 @@ rtp://225.1.1.115:5002
 rtp://225.1.1.116:5002
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://iptv.im2k.com/logo/SHENZHEN.png" group-title="地方卫视",深圳卫视
 rtp://225.1.1.117:5002
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://iptv.im2k.com/logo/FUJIAN.png" group-title="地方卫视",福建东南卫视
-#rtp://225.1.2.235:5002
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://iptv.im2k.com/logo/FUJIAN.png" group-title="地方卫视",东南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://iptv.im2k.com/logo/SICHUAN.png" group-title="地方卫视",四川卫视
 rtp://225.1.1.123:5002
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://iptv.im2k.com/logo/CHONGQING.png" group-title="地方卫视",重庆卫视
@@ -132,7 +132,7 @@ rtp://225.1.1.155:5002
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://iptv.im2k.com/logo/HUBEI.png" group-title="地方卫视",湖北卫视
 rtp://225.1.1.147:5002
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://iptv.im2k.com/logo/SHANDONG.png" group-title="地方卫视",山东卫视
-#rtp://225.1.1.148:5002
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://iptv.im2k.com/logo/HENAN.png" group-title="地方卫视",河南卫视
 rtp://225.1.2.61:5002
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://iptv.im2k.com/logo/HEBEI.png" group-title="地方卫视",河北卫视
@@ -185,10 +185,6 @@ rtp://225.1.1.134:5002
 rtp://225.1.1.135:5002
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="http://iptv.im2k.com/logo/MEILIZUQIU.png" group-title="专业频道",魅力足球
 rtp://225.1.1.137:5002
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="http://iptv.im2k.com/logo/JINBAOTIYU.png" group-title="专业频道",劲爆体育
-#rtp://225.1.1.136:5002
-#EXTINF:-1 tvg-name="魅力音乐" tvg-logo="http://iptv.im2k.com/logo/MEILIYINYUE.png" group-title="专业频道",魅力音乐
-#rtp://225.1.1.137:5002
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="http://iptv.im2k.com/logo/HUANXIAOJUCHANG.png" group-title="专业频道",欢笑剧场
 rtp://225.1.1.139:5002
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="http://iptv.im2k.com/logo/DONGFANGCAIJING.png" group-title="专业频道",东方财经
