@@ -255,42 +255,12 @@ rtp://225.1.2.203:5002
 rtp://225.1.1.72:5002
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="http://iptv.im2k.com/logo/SDETV.png" group-title="专业频道",山东教育卫视 SD
 rtp://225.1.2.118:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/4KUHD.png" group-title="连播频道",4K超清
-#rtp://225.1.1.156:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CHAOQINGLEXIANG.png" group-title="连播频道",超清乐享 4K
 rtp://225.1.2.190:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/AISHANG4K.png" group-title="连播频道",爱上4K
-#rtp://225.1.1.209:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YOUSPORTS.png" group-title="连播频道",羽球精品赛事
 rtp://225.1.2.1:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JINGDIANCHONGWEN.png" group-title="连播频道",经典重温
-rtp://225.1.2.122:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JINGDIANLAOPIANCHANG.png" group-title="连播频道",经典老片场
-rtp://225.1.1.244:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YINFASHENGHUO.png" group-title="连播频道",银发生活
-rtp://225.1.1.157:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JIANKANGZHITONGCHE.png" group-title="连播频道",健康直通车
-rtp://225.1.2.183:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CHAOLIUYINYUE.png" group-title="连播频道",潮流音乐
-rtp://225.1.2.55:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/KUAILEYINGYUABC.png" group-title="连播频道",快乐英语ABC
-rtp://225.1.2.182:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BAOBEIAIXUE.png" group-title="连播频道",宝贝爱学
-rtp://225.1.1.132:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/QUYIDAGUAN.png" group-title="连播频道",曲艺大观
-rtp://225.1.2.53:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/SHIQUANSHIMEI.png" group-title="连播频道",食全食美
-rtp://225.1.1.108:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/AIXINFUPIN.png" group-title="连播频道",爱心购
-rtp://225.1.2.132:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",天视家居
-rtp://225.1.1.243:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",天视文旅
 rtp://225.1.2.123:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",IPTV导视-联通1 SD
-rtp://225.1.1.64:5001
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",IPTV导视-联通2 SD
-rtp://225.1.1.100:5001
 #EXTINF:-1 tvg-name="IPTV3+" tvg-logo="http://iptv.im2k.com/logo/IPTV3+.png" group-title="连播频道",IPTV3+ SD
 rtp://225.1.1.201:5002
 #EXTINF:-1 tvg-name="IPTV5+" tvg-logo="http://iptv.im2k.com/logo/IPTV5+.png" group-title="连播频道",IPTV5+
@@ -303,71 +273,4 @@ rtp://225.1.1.141:5002
 rtp://225.1.1.78:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TJIPTV902.png" group-title="连播频道",902
 rtp://225.1.1.79:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育1
-rtp://225.1.1.162:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育2
-rtp://225.1.1.163:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育3
-rtp://225.1.1.164:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育4
-rtp://225.1.1.165:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育5
-rtp://225.1.1.166:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育6
-rtp://225.1.1.167:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育7
-rtp://225.1.1.168:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育8
-rtp://225.1.1.169:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育9
-rtp://225.1.1.170:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育10
-rtp://225.1.1.211:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育11
-rtp://225.1.1.212:5002
-#EXTINF:-1 tvg-name="三佳购物" tvg-logo="http://iptv.im2k.com/logo/SANJIAGOUWU.png" group-title="购物频道",天津三佳购物
-rtp://225.1.1.151:5002
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="http://iptv.im2k.com/logo/OCJ.png" group-title="购物频道",东方购物
-rtp://225.1.1.181:5002
-#EXTINF:-1 tvg-name="中视购物" tvg-logo="http://iptv.im2k.com/logo/CCTV-ZSGW.png" group-title="购物频道",中视购物 SD
-rtp://225.1.2.85:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CNRGW.png" group-title="购物频道",央广购物1 SD
-rtp://225.1.1.65:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CNRGW.png" group-title="购物频道",央广购物2 SD
-rtp://225.1.1.238:5002
-#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="http://iptv.im2k.com/logo/JUSHA.png" group-title="购物频道",聚鲨环球精选1 SD
-rtp://225.1.1.102:5002
-#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="http://iptv.im2k.com/logo/JUSHA.png" group-title="购物频道",聚鲨环球精选2 SD
-rtp://225.1.1.245:5002
-#EXTINF:-1 tvg-name="好享购物" tvg-logo="http://iptv.im2k.com/logo/HAOXIANGGW.png" group-title="购物频道",好享购物 SD
-rtp://225.1.1.224:5002
-#EXTINF:-1 tvg-name="优购物" tvg-logo="http://iptv.im2k.com/logo/YOUGOUWU.png" group-title="购物频道",优购物 SD
-rtp://225.1.1.225:5002
-#EXTINF:-1 tvg-name="家有购物" tvg-logo="http://iptv.im2k.com/logo/JIAYOUGO.png" group-title="购物频道",家有购物 SD
-rtp://225.1.1.226:5002
-#EXTINF:-1 tvg-name="快乐购" tvg-logo="http://iptv.im2k.com/logo/HAPPIGO.png" group-title="购物频道",快乐购 SD
-rtp://225.1.2.24:5002
-#EXTINF:-1 tvg-name="风尚购物" tvg-logo="http://iptv.im2k.com/logo/FENGSHANGGOUWU.png" group-title="购物频道",风尚购物 SD
-rtp://225.1.2.204:5002
-#EXTINF:-1 tvg-name="时尚购物" tvg-logo="http://iptv.im2k.com/logo/CHONGQING.png" group-title="购物频道",时尚购物 SD
-rtp://225.1.1.242:5002
-#EXTINF:-1 tvg-name="天津文艺广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津文艺广播
-rtp://225.1.1.171:5002
-#EXTINF:-1 tvg-name="天津经济广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津经济广播
-rtp://225.1.1.172:5002
-#EXTINF:-1 tvg-name="天津新闻广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津新闻广播
-rtp://225.1.1.173:5002
-#EXTINF:-1 tvg-name="天津生活广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津生活广播
-rtp://225.1.1.174:5002
-#EXTINF:-1 tvg-name="天津交通广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津交通广播
-rtp://225.1.1.175:5002
-#EXTINF:-1 tvg-name="天津相声广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津相声广播
-rtp://225.1.1.176:5002
-#EXTINF:-1 tvg-name="天津小说广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津小说广播
-rtp://225.1.1.177:5002
-#EXTINF:-1 tvg-name="天津滨海广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津滨海广播
-rtp://225.1.1.178:5002
-#EXTINF:-1 tvg-name="天津音乐广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津音乐广播
-rtp://225.1.1.179:5002
-#EXTINF:-1 tvg-name="天津经典音乐广播" tvg-logo="http://iptv.im2k.com/logo/TPBS.png" group-title="音频广播",天津经典音乐广播
-rtp://225.1.1.180:5002
+
