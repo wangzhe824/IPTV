@@ -147,7 +147,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" epg-url="https://epg.112114.xyz/pp.xml",山东少儿
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://epg.112114.xyz/logo/山东影视.png" epg-url="https://epg.112114.xyz/pp.xml",山东影视
+#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://epg.112114.xyz/logo/山东影视.png" epg-url="https://epg.112114.xyz/pp.xml",山东文旅
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" epg-url="https://epg.112114.xyz/pp.xml",山东生活
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
