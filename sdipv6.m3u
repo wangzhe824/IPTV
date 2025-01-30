@@ -127,8 +127,24 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="直播" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" epg-url="https://epg.112114.xyz/pp.xml",中国教育4台
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="直播" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" epg-url="https://epg.112114.xyz/pp.xml",山东教育
+#EXTINF:-1 group-title="直播" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" epg-url="https://epg.112114.xyz/pp.xml",山东齐鲁卫视
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" epg-url="https://epg.112114.xyz/pp.xml",山东教育卫视
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" epg-url="https://epg.112114.xyz/pp.xml",山东综艺
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000338/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" epg-url="https://epg.112114.xyz/pp.xml",山东体育
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东公共" tvg-logo="https://epg.112114.xyz/logo/山东公共.png" epg-url="https://epg.112114.xyz/pp.xml",山东公共
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" epg-url="https://epg.112114.xyz/pp.xml",山东农科
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000339/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" epg-url="https://epg.112114.xyz/pp.xml",山东少儿
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东影视" tvg-logo="https://epg.112114.xyz/logo/山东影视.png" epg-url="https://epg.112114.xyz/pp.xml",山东影视
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000337/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title="直播" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" epg-url="https://epg.112114.xyz/pp.xml",山东生活
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000336/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="直播" tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" epg-url="https://epg.112114.xyz/pp.xml",纪实科教
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="直播" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" epg-url="https://epg.112114.xyz/pp.xml",劲爆体育
