@@ -121,16 +121,12 @@ rtp://225.2.1.115:5000
 rtp://225.2.1.116:5000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://iptv.im2k.com/logo/SHENZHEN.png" group-title="卫视频道",深圳卫视
 rtp://225.2.1.117:5000
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://iptv.im2k.com/logo/FUJIAN.png" group-title="卫视频道",东南卫视
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://iptv.im2k.com/logo/SICHUAN.png" group-title="卫视频道",四川卫视
 rtp://225.2.1.123:5000
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://iptv.im2k.com/logo/CHONGQING.png" group-title="卫视频道",重庆卫视
 rtp://225.2.1.155:5000
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://iptv.im2k.com/logo/HUBEI.png" group-title="卫视频道",湖北卫视
 rtp://225.2.1.147:5000
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://iptv.im2k.com/logo/SHANDONG.png" group-title="卫视频道",山东卫视
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://iptv.im2k.com/logo/HENAN.png" group-title="卫视频道",河南卫视
 rtp://239.0.2.61:5000
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://iptv.im2k.com/logo/HEBEI.png" group-title="卫视频道",河北卫视
@@ -264,33 +260,13 @@ rtp://225.2.1.72:5000
 
 
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/4KUHD.png" group-title="连播频道",4K超清
-#rtp://225.2.1.156:5000
+rtp://225.2.1.156:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CHAOQINGLEXIANG.png" group-title="连播频道",超清乐享 4K
 rtp://239.0.2.190:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/AISHANG4K.png" group-title="连播频道",爱上4K
-#rtp://225.2.1.209:5000
+rtp://225.2.1.209:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YOUSPORTS.png" group-title="连播频道",羽球精品赛事
 rtp://239.0.2.1:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JINGDIANCHONGWEN.png" group-title="连播频道",经典重温
-rtp://239.0.2.122:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JINGDIANLAOPIANCHANG.png" group-title="连播频道",经典老片场
-rtp://225.2.1.244:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YINFASHENGHUO.png" group-title="连播频道",银发生活
-rtp://225.2.1.157:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JIANKANGZHITONGCHE.png" group-title="连播频道",健康直通车
-rtp://239.0.2.183:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CHAOLIUYINYUE.png" group-title="连播频道",潮流音乐
-rtp://239.0.2.55:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/KUAILEYINGYUABC.png" group-title="连播频道",快乐英语ABC
-rtp://239.0.2.182:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BAOBEIAIXUE.png" group-title="连播频道",宝贝爱学
-rtp://225.2.1.132:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/QUYIDAGUAN.png" group-title="连播频道",曲艺大观
-rtp://239.0.2.53:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/SHIQUANSHIMEI.png" group-title="连播频道",食全食美
-rtp://225.2.1.108:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/AIXINFUPIN.png" group-title="连播频道",爱心购
-rtp://239.0.2.132:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",天视家居
 rtp://225.2.1.243:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",天视文旅
@@ -299,8 +275,6 @@ rtp://239.0.2.123:5000
 rtp://225.2.1.106:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/.png" group-title="连播频道",IPTV足球 SD
 rtp://225.2.1.105:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TJIPTV901.png" group-title="连播频道",901 SD
-rtp://225.2.1.78:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TJIPTV902.png" group-title="连播频道",902
 rtp://225.2.1.79:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BesTV.png" group-title="赛事直播",百视通体育1
