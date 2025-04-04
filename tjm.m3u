@@ -257,14 +257,6 @@ rtp://239.0.2.203:5000
 rtp://225.2.1.72:5000
 
 
-
-
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/4KUHD.png" group-title="连播频道",4K超清
-rtp://225.2.1.156:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/CHAOQINGLEXIANG.png" group-title="连播频道",超清乐享 4K
-rtp://239.0.2.190:5000
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/AISHANG4K.png" group-title="连播频道",爱上4K
-rtp://225.2.1.209:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/YOUSPORTS.png" group-title="连播频道",羽球精品赛事
 rtp://239.0.2.1:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="连播频道",天视家居
