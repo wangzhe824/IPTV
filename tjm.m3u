@@ -176,9 +176,9 @@ rtp://239.0.2.118:5000
 
 
 
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://iptv.im2k.com/logo/CHC-YMDY.png" group-title="数字频道",CHC影迷电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="http://iptv.im2k.com/logo/CHC-YMDY.png" group-title="数字频道",CHC影迷电影
 rtp://225.2.1.214:5000
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://iptv.im2k.com/logo/CHC-JTYY.png" group-title="数字频道",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://iptv.im2k.com/logo/CHC-JTYY.png" group-title="数字频道",CHC家庭影院
 rtp://225.2.1.213:5000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://iptv.im2k.com/logo/CHC-DZDY.png" group-title="数字频道",CHC动作电影
 rtp://225.2.1.215:5000
@@ -348,4 +348,5 @@ rtp://239.0.2.228:5000
 rtp://239.0.2.229:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/migu.png" group-title="赛事直播",咪咕体育26 4K
 rtp://239.0.2.233:5000
+
 
