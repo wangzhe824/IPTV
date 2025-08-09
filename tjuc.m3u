@@ -157,7 +157,7 @@ rtp://225.1.2.28:5002
 rtp://225.1.1.159:5002
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://iptv.im2k.com/logo/QINGHAI.png" group-title="卫视频道",青海卫视
 rtp://225.1.1.251:5002
-#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://iptv.im2k.com/logo/HAINAN.png" group-title="卫视频道",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://iptv.im2k.com/logo/HAINAN.png" group-title="卫视频道",海南卫视
 rtp://225.1.2.82:5002
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://iptv.im2k.com/logo/SANSHA.png" group-title="卫视频道",三沙卫视
 rtp://225.1.1.182:5002
