@@ -29,6 +29,10 @@ rtp://225.1.2.7:5002
 rtp://225.1.2.8:5002
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/DAGANGYOUTIAN.png" group-title="天津频道",大港油田
 rtp://225.1.2.14:5002
+
+
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://iptv.im2k.com/logo/CCTV1.png" group-title="央视频道",CCTV-1综合
 rtp://225.1.1.120:5002
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://iptv.im2k.com/logo/CCTV2.png" group-title="央视频道",CCTV-2财经
@@ -117,20 +121,30 @@ rtp://225.1.1.116:5002
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://iptv.im2k.com/logo/SHENZHEN.png" group-title="卫视频道",深圳卫视
 rtp://225.1.2.101:5002
 rtp://225.1.1.117:5002
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://iptv.im2k.com/logo/SHANDONG.png" group-title="卫视频道",山东卫视
+rtp://225.1.2.106:5002
+rtp://225.1.1.148:5002
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGSU.png" group-title="卫视频道",江苏卫视
+rtp://225.1.2.107:5002
+rtp://225.1.1.126:5002
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://iptv.im2k.com/logo/DragonTV.png" group-title="卫视频道",东方卫视
+rtp://225.1.2.108:5002
+rtp://225.1.2.31:5002
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://iptv.im2k.com/logo/ZHEJIANG.png" group-title="卫视频道",浙江卫视
+rtp://225.1.2.109:5002
+rtp://225.1.1.112:5002
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://iptv.im2k.com/logo/HUNAN.png" group-title="卫视频道",湖南卫视
+rtp://225.1.2.110:5002
+rtp://225.1.1.114:5002
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://iptv.im2k.com/logo/SICHUAN.png" group-title="卫视频道",四川卫视
+rtp://225.1.2.111:5002
+rtp://225.1.1.123:5002
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://iptv.im2k.com/logo/LIAONING.png" group-title="卫视频道",辽宁卫视
 rtp://225.1.1.154:5002
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://iptv.im2k.com/logo/FUJIAN.png" group-title="卫视频道",东南卫视
 rtp://225.1.2.235:5002
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGSU.png" group-title="卫视频道",江苏卫视
-rtp://225.1.1.126:5002
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://iptv.im2k.com/logo/ZHEJIANG.png" group-title="卫视频道",浙江卫视
-rtp://225.1.1.112:5002
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://iptv.im2k.com/logo/DragonTV.png" group-title="卫视频道",东方卫视
-rtp://225.1.2.31:5002
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://iptv.im2k.com/logo/ANHUI.png" group-title="卫视频道",安徽卫视
 rtp://225.1.1.127:5002
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://iptv.im2k.com/logo/HUNAN.png" group-title="卫视频道",湖南卫视
-rtp://225.1.1.114:5002
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://iptv.im2k.com/logo/HUBEI.png" group-title="卫视频道",湖北卫视
 rtp://225.1.1.147:5002
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://iptv.im2k.com/logo/HENAN.png" group-title="卫视频道",河南卫视
@@ -143,8 +157,6 @@ rtp://225.1.2.81:5002
 rtp://225.1.2.26:5002
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://iptv.im2k.com/logo/HEILONGJIANG.png" group-title="卫视频道",黑龙江卫视
 rtp://225.1.1.115:5002
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://iptv.im2k.com/logo/SICHUAN.png" group-title="卫视频道",四川卫视
-rtp://225.1.1.123:5002
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://iptv.im2k.com/logo/CHONGQING.png" group-title="卫视频道",重庆卫视
 rtp://225.1.1.155:5002
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://iptv.im2k.com/logo/JIANGXI.png" group-title="卫视频道",江西卫视
@@ -266,8 +278,6 @@ rtp://225.1.2.236:5002
 rtp://225.1.2.207:5002
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://iptv.im2k.com/logo/KAKU.png" group-title="少儿频道",卡酷少儿 SD
 rtp://225.1.1.58:5002
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="http://iptv.im2k.com/logo/HAHAXUANDONG.png" group-title="少儿频道",哈哈炫动 SD
-rtp://225.1.1.62:5002
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="http://iptv.im2k.com/logo/XINDONGMAN.png" group-title="少儿频道",新动漫 SD
 rtp://225.1.1.216:5002
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="http://iptv.im2k.com/logo/SHUHUA.png" group-title="少儿频道",书画频道 SD
