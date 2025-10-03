@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://e.erw.cc/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1综合
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002013/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2财经
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
@@ -18,7 +17,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV-8电视剧
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000376/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV-9记录
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV-10科教
@@ -51,6 +49,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" group-title="央视频道",CGTN阿语
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
