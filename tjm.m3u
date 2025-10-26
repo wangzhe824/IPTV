@@ -182,8 +182,10 @@ rtp://225.2.1.167:5000
 rtp://225.2.1.168:5000
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://iptv.im2k.com/logo/BINGTUAN.png" group-title="卫视频道",兵团卫视
 rtp://225.2.1.169:5000
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://iptv.im2k.com/logo/SDETV.png" group-title="卫视频道",山东教育卫视 SD
-rtp://239.0.2.118:5000
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://iptv.im2k.com/logo/SDETV.png" group-title="卫视频道",山东教育卫视
+rtp://225.2.1.152:5000
+
+
 
 
 
@@ -356,6 +358,7 @@ rtp://239.0.2.228:5000
 rtp://239.0.2.229:5000
 #EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/migu.png" group-title="赛事直播",咪咕体育26 4K
 rtp://239.0.2.233:5000
+
 
 
 
