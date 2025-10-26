@@ -187,8 +187,8 @@ rtp://225.1.1.167:5002
 rtp://225.1.1.168:5002
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://iptv.im2k.com/logo/BINGTUAN.png" group-title="卫视频道",兵团卫视
 rtp://225.1.1.169:5002
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://iptv.im2k.com/logo/SDETV.png" group-title="卫视频道",山东教育卫视 SD
-rtp://225.1.2.118:5002
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://iptv.im2k.com/logo/SDETV.png" group-title="卫视频道",山东教育卫视
+rtp://225.1.1.152:5002
 
 
 
