@@ -117,6 +117,7 @@ rtp://225.1.2.246:5002
 rtp://225.1.1.113:5002
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://iptv.im2k.com/logo/GUANGDONG.png" group-title="卫视频道",广东卫视
 rtp://225.1.2.100:5002
+rtp://225.1.2.206:5002
 rtp://225.1.1.116:5002
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://iptv.im2k.com/logo/SHENZHEN.png" group-title="卫视频道",深圳卫视
 rtp://225.1.2.101:5002
@@ -248,10 +249,10 @@ rtp://225.1.1.205:5002
 rtp://225.1.1.77:5002
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="http://iptv.im2k.com/logo/ZHONGHUATECHAN.png" group-title="数字频道",中华特产 SD
 rtp://225.1.2.248:5002
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="http://iptv.im2k.com/logo/CAIFUTIANXIA.png" group-title="数字频道",财富天下 SD
-rtp://225.1.2.198:5002
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="http://iptv.im2k.com/logo/HUANQIULVYOU.png" group-title="数字频道",环球旅游 SD
-rtp://225.1.2.200:5002
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="http://iptv.im2k.com/logo/CAIFUTIANXIA.png" group-title="数字频道",财富天下
+rtp://225.1.1.137:5002
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="http://iptv.im2k.com/logo/HUANQIULVYOU.png" group-title="数字频道",环球旅游
+rtp://225.1.1.156:5002
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="http://iptv.im2k.com/logo/SHENGTAIHUANJING.png" group-title="数字频道",生态环境 SD
 rtp://225.1.2.201:5002
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://iptv.im2k.com/logo/SIHAIDIAOYU.png" group-title="数字频道",四海钓鱼
