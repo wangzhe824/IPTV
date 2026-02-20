@@ -39,6 +39,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视频道",CCTV-4美洲
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" group-title="央视频道",CGTN
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" group-title="央视频道",CGTN法语
@@ -49,6 +51,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" group-title="央视频道",CGTN阿语
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+
 
 
 
@@ -119,23 +122,25 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000043/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
-#EXTINF:-1 tvg-name="农林卫视" group-title="卫视频道",陕西农林卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000392/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000394/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视频道",延边卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000668/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1 tvg-name="农林卫视" group-title="卫视频道",陕西农林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
+
+
 
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="数字频道",CHC家庭影院
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
@@ -169,6 +174,30 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" group-title="数字频道",东方财经
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 tvg-name="中国交通" group-title="数字频道",中国交通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 tvg-name="中华特产" group-title="数字频道",中华特产
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8
+#EXTINF:-1 tvg-name="生态环境" group-title="数字频道",生态环境
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
+#EXTINF:-1 tvg-name="财富天下" group-title="数字频道",财富天下
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="数字频道",四海钓鱼
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000674/index.m3u8
+#EXTINF:-1 tvg-name="环球旅游" group-title="数字频道",环球旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
+#EXTINF:-1 tvg-name="书画频道" group-title="数字频道",书画频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云" group-title="数字频道",游戏风云
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 tvg-name="求索记录" group-title="数字频道",求索记录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -177,12 +206,20 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" group-title="少儿体育",劲爆体育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:-1 tvg-name="新动漫" group-title="少儿体育",新动漫
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿体育",优漫卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1 tvg-name="优优宝贝" group-title="少儿体育",优优宝贝
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿体育",金鹰卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" group-title="少儿体育",动漫秀场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿体育",卡酷少儿
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="少儿体育",嘉佳卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" group-title="少儿体育",金色学堂
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" group-title="少儿体育",CETV1
@@ -191,6 +228,13 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" group-title="少儿体育",CETV4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
+#EXTINF:-1 tvg-name="中学生" group-title="少儿体育",中学生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="山东齐鲁" group-title="山东频道",山东齐鲁
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
@@ -218,9 +262,157 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000250/index.m3u8
 #EXTINF:-1 group-title="山东频道",聊城公共
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-name="临清综合" group-title="山东频道",临清综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001103/index.m3u8
+#EXTINF:-1 tvg-name="冠县综合" group-title="山东频道",冠县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
 #EXTINF:-1 group-title="山东频道",茌平综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
 #EXTINF:-1 group-title="山东频道",德州公共
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8
 #EXTINF:-1 group-title="山东频道",德州新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 tvg-name="夏津公共" group-title="山东频道",夏津公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 tvg-name="夏津综合" group-title="山东频道",夏津综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 tvg-name="菏泽公共" group-title="山东频道",菏泽公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1 tvg-name="菏泽新闻" group-title="山东频道",菏泽新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 tvg-name="宁津综合" group-title="山东频道",宁津综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 tvg-name="济南都市" group-title="山东频道",济南都市
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 tvg-name="济南鲁中" group-title="山东频道",济南鲁中
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 tvg-name="济南少儿" group-title="山东频道",济南少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1 tvg-name="济南生活" group-title="山东频道",济南生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 tvg-name="济南文旅体育" group-title="山东频道",济南文旅体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 tvg-name="济南娱乐" group-title="山东频道",济南娱乐
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1 tvg-name="济宁高新" group-title="山东频道",济宁高新
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001101/index.m3u8
+#EXTINF:-1 tvg-name="济宁公共" group-title="山东频道",济宁公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1 tvg-name="济宁生活" group-title="山东频道",济宁生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1 tvg-name="济宁综合" group-title="山东频道",济宁综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 tvg-name="济阳综合" group-title="山东频道",济阳综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 tvg-name="嘉祥综合" group-title="山东频道",嘉祥综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1 tvg-name="莒南综合" group-title="山东频道",莒南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001011/index.m3u8
+#EXTINF:-1 tvg-name="巨野新闻" group-title="山东频道",巨野新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 tvg-name="兰陵公共" group-title="山东频道",兰陵公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
+#EXTINF:-1 tvg-name="单县综合" group-title="山东频道",单县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 tvg-name="高青综合" group-title="山东频道",高青综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1 tvg-name="定陶电视台" group-title="山东频道",定陶电视台
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 tvg-name="东阿综合" group-title="山东频道",东阿综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
+#EXTINF:-1 tvg-name="东明电视台" group-title="山东频道",东明电视台
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1 tvg-name="兰陵综合" group-title="山东频道",兰陵综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 tvg-name="肥城综合" group-title="山东频道",肥城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
+#EXTINF:-1 tvg-name="历城综合" group-title="山东频道",历城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001105/index.m3u8
+#EXTINF:-1 tvg-name="东平综合" group-title="山东频道",东平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 tvg-name="东营公共" group-title="山东频道",东营公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1 tvg-name="东营新闻" group-title="山东频道",东营新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 tvg-name="广饶综合" group-title="山东频道",广饶综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1 tvg-name="河东综合" group-title="山东频道",河东综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001109/index.m3u8
+#EXTINF:-1 tvg-name="梁山综合" group-title="山东频道",梁山综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1 tvg-name="临邑电视台" group-title="山东频道",临邑电视台
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001104/index.m3u8
+#EXTINF:-1 tvg-name="滨州民生" group-title="山东频道",滨州民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1 tvg-name="滨州新闻" group-title="山东频道",滨州新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 tvg-name="陵城综合" group-title="山东频道",陵城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
+#EXTINF:-1 tvg-name="蒙阴综合" group-title="山东频道",蒙阴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 tvg-name="桓台综合" group-title="山东频道",桓台综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1 tvg-name="惠民综合" group-title="山东频道",惠民综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001009/index.m3u8
+#EXTINF:-1 tvg-name="宁阳电视台" group-title="山东频道",宁阳电视台
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8
+#EXTINF:-1 tvg-name="宁阳综合" group-title="山东频道",宁阳综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1 tvg-name="平阴综合" group-title="山东频道",平阴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 tvg-name="平原综合" group-title="山东频道",平原综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1 tvg-name="齐河综合" group-title="山东频道",齐河综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 tvg-name="曲阜综合" group-title="山东频道",曲阜综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 tvg-name="商河综合" group-title="山东频道",商河综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1 tvg-name="莘县综合" group-title="山东频道",莘县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001047/index.m3u8
+#EXTINF:-1 tvg-name="无棣综合" group-title="山东频道",无棣综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 tvg-name="武城综合" group-title="山东频道",武城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 tvg-name="新泰乡村" group-title="山东频道",新泰乡村
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 tvg-name="新泰综合" group-title="山东频道",新泰综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 tvg-name="兖州新闻" group-title="山东频道",兖州新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 tvg-name="阳信新闻" group-title="山东频道",阳信新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 tvg-name="沂水生活" group-title="山东频道",沂水生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-name="沂水综合" group-title="山东频道",沂水综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8
+#EXTINF:-1 tvg-name="沂源综合" group-title="山东频道",沂源综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1 tvg-name="鱼台生活" group-title="山东频道",鱼台生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001108/index.m3u8
+#EXTINF:-1 tvg-name="鱼台新闻" group-title="山东频道",鱼台新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001107/index.m3u8
+#EXTINF:-1 tvg-name="禹城综合" group-title="山东频道",禹城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 tvg-name="禹城综艺" group-title="山东频道",禹城综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 tvg-name="郓城新闻" group-title="山东频道",郓城新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 tvg-name="沾化综合" group-title="山东频道",沾化综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 tvg-name="长清综合" group-title="山东频道",长清综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 tvg-name="淄博民生" group-title="山东频道",淄博民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 tvg-name="淄博文旅" group-title="山东频道",淄博文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1 tvg-name="淄博新闻" group-title="山东频道",淄博新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 tvg-name="淄博影视" group-title="山东频道",淄博影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 tvg-name="淄川新闻" group-title="山东频道",淄川新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 tvg-name="邹城综合" group-title="山东频道",邹城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1 tvg-name="邹平综合" group-title="山东频道",邹平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
