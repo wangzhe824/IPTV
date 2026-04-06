@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://e.erw.cc/e.xml"
+#EXTM3U url-tvg="http://e.erw.cc/e.xml.gz"
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津频道",天津卫视
 rtp://225.2.1.111:5000
 #EXTINF:-1 tvg-name="天津新闻" tvg-logo="http://iptv.im2k.com/logo/TIANJIN.png" group-title="天津频道",天津-1新闻
@@ -207,7 +207,7 @@ rtp://225.2.1.124:5000
 rtp://225.2.1.135:5000
 #EXTINF:-1 tvg-name="魅力音乐" tvg-logo="http://iptv.im2k.com/logo/MEILIYINYUE.png" group-title="数字频道",魅力音乐
 #rtp://225.2.1.137:5000
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="http://iptv.im2k.com/logo/HUANXIAOJUCHANG.png" group-title="数字频道",欢笑剧场
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="http://iptv.im2k.com/logo/DUOCAIWENTI.png" group-title="数字频道",多彩文体
 rtp://225.2.1.139:5000
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="http://iptv.im2k.com/logo/DONGFANGCAIJING.png" group-title="数字频道",东方财经
 rtp://225.2.1.247:5000
@@ -221,8 +221,6 @@ rtp://225.2.1.146:5000
 rtp://225.2.1.84:5000
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://iptv.im2k.com/logo/KUAILECHUIDIAO.png" group-title="数字频道",快乐垂钓
 rtp://239.0.2.18:5000
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="http://iptv.im2k.com/logo/CHANNELTEA.png" group-title="数字频道",茶频道
-rtp://239.0.2.19:5000
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="http://iptv.im2k.com/logo/LIYUAN.png" group-title="数字频道",梨园频道
 rtp://239.0.2.104:5000
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="http://iptv.im2k.com/logo/WENWUBAOKU.png" group-title="数字频道",文物宝库
