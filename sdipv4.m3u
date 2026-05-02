@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://e.erw.cc/e.xml"
+#EXTM3U url-tvg="http://e.erw.cc/e.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2财经
